@@ -37,7 +37,7 @@
 
   --mb-0-25: .25rem;
   --mb-0-5: .5rem;
-  --mb-1: 1rem;
+  --mb-1: 2rem;
   --mb-1-5: 1.5rem;
   --mb-2: 2rem;
   --mb-2-5: 2.5rem;
@@ -182,7 +182,7 @@ body.dark-theme {
 }
 
 .section {
-  padding: 4.5rem 0 1rem;
+  padding: 3rem 0 1rem;
 }
 
 .section__title {
@@ -369,7 +369,7 @@ body.dark-theme {
 /*=============== CELEBRATE ===============*/
 
 .celebrate__container {
-  row-gap: 1rem;
+  row-gap: 2rem;
 }
 
 .celebrate__data {
@@ -391,7 +391,7 @@ body.dark-theme {
 
 /*=============== GIFT ===============*/
 .gift__container {
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
 }
 
@@ -687,7 +687,7 @@ body.dark-theme {
   }
 
   .giving__container {
-    grid-template-columns: repeat(2, 142px);
+    grid-template-columns: repeat(3, 142px);
     justify-content: center;
     gap: 2.5rem 3.5rem;
   }
@@ -697,7 +697,7 @@ body.dark-theme {
   }
 
   .gift__container {
-    grid-template-columns: repeat(2, 180px);
+    grid-template-columns: repeat(3, 180px);
     justify-content: center;
     gap: 2rem;
   }
@@ -708,16 +708,14 @@ body.dark-theme {
   }
 
   .footer__container {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(5, 1fr);
+    gap: 3rem 1rem;
   }
 }
 
 @media screen and (min-width: 767px) {
   body {
     margin: 0;
-  }
-  .section {
-    padding: 6.5rem 0 2rem;
   }
 
   .nav {
@@ -763,19 +761,19 @@ body.dark-theme {
 
   .celebrate__data, 
   .celebrate__title {
-    text-align: initial;
+    align-items: center;
   }
   .celebrate__description {
     padding: 0;
   }
 
   .gift__container {
-    grid-template-columns: repeat(3, 200px);
+    grid-template-columns: repeat(5, 200px);
     gap: 2.5rem;
   }
 
   .footer__container {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
 }
 
@@ -808,7 +806,7 @@ body.dark-theme {
     width: 450px;
   }
   .celebrate__description {
-    padding-right: 7rem;
+    padding-right: 0rem;
   }
 
   .gift__container {
@@ -861,23 +859,11 @@ body.dark-theme {
   }
 
   .footer__container {
-    grid-template-columns: repeat(4, max-content);
+    grid-template-columns: repeat(5, max-content);
     justify-content: space-between;
   }
   .footer__copy {
     margin-top: 7rem;
-  }
-  .footer__img1, 
-  .footer__img2 {
-    width: 120px;
-  }
-  .footer__img1 {
-    top: 100%;
-    left: 0;
-  }
-  .footer__img2 {
-    top: 40%;
-    right: -7rem;
   }
   
   .scrollup {
