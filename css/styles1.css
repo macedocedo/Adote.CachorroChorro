@@ -145,9 +145,6 @@ body.dark-theme {
   box-shadow: 0 2px 4px hsla(0, 0%, 4%, .3);
 }
 
-.dark-theme .message__container {
-  background-color: var(--container-color);
-}
 
 .dark-theme .message__input {
   background-color: var(--body-color);
@@ -498,12 +495,7 @@ body.dark-theme {
 }
 
 /*=============== MESSAGE ===============*/
-.message__container {
-  row-gap: 1rem;
-  background-color: var(--body-color);
-  padding: 2.5rem 1.5rem 2.5rem;
-  border-radius: 1.25rem;
-}
+
 
 .message__form {
   text-align: center;
@@ -535,7 +527,7 @@ body.dark-theme {
 }
 
 .message__img {
-  width: 600px;
+  width: 500px;
   justify-self: center;
 
 }
