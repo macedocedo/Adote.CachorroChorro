@@ -1,7 +1,8 @@
-# Adote.CachorroChorro
+# Responsive Website
+
 Site com foco no estudo JavaScrip / HTML5 / CSS3 / SwiperJS
 
-Link: https://macedocedo.github.io/Adote.CachorroChorro/
+# Link: https://macedocedo.github.io/Adote.CachorroChorro/
 
 #Nav - > -------
 #Home -> ------
