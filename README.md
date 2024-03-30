@@ -19,6 +19,7 @@ Navegação Simples: Explore facilmente os cães disponíveis.
 -Leve para Casa: Leve seu novo amigo peludo para casa e comece uma jornada de amor e companheirismo.
 
 - Obrigado por considerar a adoção de um animal de estimação. 
+
 Juntos, podemos fazer a diferença na vida desses animais indefesos. 🐶❤️
 
 # Responsive Website Link: https://macedocedo.github.io/Adote.CachorroChorro/
