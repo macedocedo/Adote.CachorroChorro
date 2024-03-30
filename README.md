@@ -20,7 +20,7 @@ Navegação Simples: Explore facilmente os cães disponíveis.
 
 - Obrigado por considerar a adoção de um animal de estimação. 
 
-Juntos, podemos fazer a diferença na vida desses animais indefesos. 🐶❤️
+Juntos, podemos fazer a diferença na vida desses animais. 🐶❤️
 
 # Responsive Website Link: https://macedocedo.github.io/Adote.CachorroChorro/
 ![image](https://github.com/macedocedo/Adote.CachorroChorro/assets/84480587/bc75a62c-4e03-40f9-b884-b3f2a3055136)
