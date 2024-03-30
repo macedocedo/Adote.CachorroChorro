@@ -1,7 +1,8 @@
 
 # Bem-vindo ao CachorroChorro 🐾
 O CachorroChorro é um site dedicado à adoção de animais em Campinas. 
-Desenvolvido com HTML, CSS e JavaScript, oferece uma plataforma simples e intuitiva para encontrar cães disponíveis para adoção.
+
+- Desenvolvido com HTML, CSS e JavaScript, oferece uma plataforma simples e intuitiva para encontrar cães disponíveis para adoção.
 
 - Recursos Principais
 Navegação Simples: Explore facilmente os cães disponíveis.
